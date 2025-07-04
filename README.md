@@ -7,7 +7,7 @@ In this report, I analyzed a set of real estate data in Riyadh to better underst
 ## 🛠 Tools Used
 - SQL Server 2019
 
--  📊 Main Objectives
+## 📊 Main Objectives
 - Explore real estate prices in Riyadh neighborhoods.
 - Identify top and bottom neighborhoods by average price per square meter.
 - Analyze property sizes and their relation to price.
